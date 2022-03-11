@@ -19,7 +19,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://chiamaka-ugwu.github.io/Single-Price-Component/](https://chiamaka-ugwu.github.io/Single-Price-Component/)
 
 ## My process
